@@ -5,7 +5,7 @@ import os
 
 repo_id = "KaushikBs/Tourism-Package"
 repo_type = "dataset"
-mlops/data
+
 # Initialize API client
 api = HfApi(token=os.getenv("HF_TOKEN"))
 
